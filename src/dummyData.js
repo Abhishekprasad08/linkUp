@@ -1,52 +1,52 @@
 export const Users = [
   {
     id:1,
-    profilePicture: "assets/person/1.jpeg",
-    username: "Safak Kocaoglu",
+    profilePicture: "assets/1.jpg",
+    username: "Abhishek Prasad",
   },
   {
     id:2,
-    profilePicture: "assets/person/2.jpeg",
-    username: "Janell Shrum",
+    profilePicture: "assets/02.jpg",
+    username: "Mr_verma",
   },
   {
     id:3,
-    profilePicture: "assets/person/3.jpeg",
-    username: "Alex Durden",
+    profilePicture: "assets/03.jpg",
+    username: "Banty ",
   },
   {
     id:4,
-    profilePicture: "assets/person/4.jpeg",
-    username: "Dora Hawks",
+    profilePicture: "assets/04.jpg",
+    username: "Noor",
   },
   {
     id:5,
-    profilePicture: "assets/person/5.jpeg",
+    profilePicture: "assets/05.jpg",
     username: "Thomas Holden",
   },
   {
     id:6,
-    profilePicture: "assets/person/6.jpeg",
+    profilePicture: "assets/06.jpg",
     username: "Shirley Beauchamp",
   },
   {
     id:7,
-    profilePicture: "assets/person/7.jpeg",
-    username: "Travis Bennett",
+    profilePicture: "assets/07.jpg",
+    username: "Rohan ",
   },
   {
     id:8,
-    profilePicture: "assets/person/8.jpeg",
-    username: "Kristen Thomas",
+    profilePicture: "assets/08.jpg",
+    username: "Arman",
   },
   {
     id:9,
-    profilePicture: "assets/person/9.jpeg",
+    profilePicture: "assets/09.jpg",
     username: "Gary Duty",
   },
   {
     id:10,
-    profilePicture: "assets/person/10.jpeg",
+    profilePicture: "assets/10.jpg",
     username: "Safak Kocaoglu",
   },
 ];
@@ -130,7 +130,7 @@ export const Posts = [
   },
   {
     id: 10,
-    photo: "assets/post/10.jpeg",
+    photo: "assets/boy-png-29779.png",
     date: "1 week ago",
     userId: 10,
     like: 104,
